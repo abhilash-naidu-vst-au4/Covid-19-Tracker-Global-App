@@ -1,5 +1,7 @@
-                                  OPEN APP: https://global-covid19-count.netlify.app/
- 
+                                                 Covid-19-Tracker-Global-App
+
+  OPEN APP : https://global-covid19-count.netlify.app/
+
 1. NPM START To Open LOCALLY.
 [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
