@@ -2,9 +2,9 @@
 
   [OPEN APP](https://global-covid19-count.netlify.app/)
 
- GIT CLONE, NPM START To Open LOCALLY.
+
  
-[http://localhost:3000](http://localhost:3000) to view it in the browser.
+ GIT CLONE, NPM START To Open LOCALLY & run [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 1. Global Data On Covid-19 Clusters.
 
